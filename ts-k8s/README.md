@@ -96,7 +96,7 @@ After cloning this repo, from this working directory, run these commands:
    achieve the desired state. Let's make a small change:
 
     ```bash
-    $ pulumi config set appReplicaCount 7
+    $ pulumi config set appReplicaCount 3
     ```
 
    And then rerun `pulumi up`. Notice that it shows the preview of the changes,
