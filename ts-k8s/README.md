@@ -2,7 +2,7 @@
 
 # DigitalOcean Kubernetes Cluster and Application
 
-This example provisions a new DigitalOcean Kubernetes cluster, deploys a load-balanced application into it, and then optionally configures DigitalOcean DNS records to give the resulting application a stable domain-based URL.
+This example provisions a new DigitalOcean Kubernetes cluster, deploys a load-balanced application into it.
 
 ## Deploying the Example
 
